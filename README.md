@@ -1,5 +1,5 @@
-# app_surat
-App Surat Keluar 
+# laporan_kerja_praktek
+App Amprahan 
 Dibuat dengan : 
 <ul>
 <li>Codeigniter</li>
